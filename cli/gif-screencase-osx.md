@@ -1,5 +1,9 @@
 # OS X Screencast to animated GIF
 
+### [Source](https://gist.github.com/dergachev/4627207)
+
+Author: [dergachev | Alex Dergachev](https://github.com/dergachev)
+
 This gist shows how to create a GIF screencast using only free OS X tools: *QuickTime, ffmpeg, and gifsicle*.
 
 ![Screencapture GIF](http://dl-web.dropbox.com/u/29440342/screenshots/OBDHSF-KJDFKJS-screencapture.gif)
