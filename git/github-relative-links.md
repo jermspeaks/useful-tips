@@ -1,6 +1,10 @@
 # Use Relative Links in Github
 
-Relative links and image paths in README files
+## [Source](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+
+Author: Github
+
+*Original Title*: Relative links and image paths in README files
 
 You can define relative links and image paths in your rendered files 
 to help readers navigate to other files in your repository.
