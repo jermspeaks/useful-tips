@@ -2,6 +2,8 @@
 
 Written on January 20, 2014
 
+OP: http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/
+
 Sublime Text 3 ships with a CLI called `subl`. By default you can't use this command line utility unless you do some fiddling.
 
 ### A word about the load $PATH
